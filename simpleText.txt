@@ -1,0 +1,8 @@
+begin
+int i ;
+for ( i = 0 ; i < 9 ; i ++ )
+{
+double x = 5 ;
+cout << " Doesn't matter what I type here " ;
+}
+end
